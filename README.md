@@ -14,7 +14,7 @@ If you're up for diving into tech discussions, exploring creative ideas, or simp
 
 
 #### 📬 Let's Create Something Amazing!  
-#💡 Got a cool idea? Want to geek out over tech or art? Let’s talk!
+# 💡 Got a cool idea? Want to geek out over tech or art? Let’s talk!
 <br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shrimayee-mishra)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:shrimayeemishra934@gmail.com)
