@@ -11,12 +11,14 @@ If you're up for diving into tech discussions, exploring creative ideas, or simp
 [![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@shrimayeemishra)  
 #### 🎨 My Artistic Side:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_artifying/)
-  
+
 
 #### 📬 Let's Create Something Amazing!  
 💡 Got a cool idea? Want to geek out over tech or art? Let’s talk!
 <br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shrimayee-mishra)  
+[![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail)](mailto:shrimayeemishra934@gmail.com)
+
 ---
 
 
