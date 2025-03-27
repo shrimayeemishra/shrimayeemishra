@@ -6,9 +6,9 @@ Beyond code, I explore creativity through writing and art, expressing myself thr
 If you're up for diving into tech discussions, exploring creative ideas, or simply having a good chat about life’s quirks, I’d love to hear from you. Let’s connect, share a laugh, and perhaps even spark the next big idea together! 🚀  
 
 #### 🚀 Explore My Work:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://shrimayee-mishra.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel&logoColor=white)](https://shrimayee-mishra.vercel.app/)
 #### ✍🏽 Read my Write-ups:
-[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=for-the-badge)](https://medium.com/@shrimayeemishra)  
+[![Medium](https://img.shields.io/badge/-Medium-blue?logo=medium&style=for-the-badge)](https://medium.com/@shrimayeemishra)  
 #### 🎨 My Artistic Side:
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_artifying/)
 
