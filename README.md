@@ -1,7 +1,7 @@
 #  🌍 Hello World, I'm Shrimayee!  
 ### 👩🏽‍💻 Tech Explorer | 🌿 Passionate Learner | ✨ Creative Mind
 
-Beyond code, I explore creativity through writing and art, expressing myself through stories and visuals. For me, creativity isn’t just a hobby—it’s a way to think, innovate, and bring ideas to life. 🎨✨
+Beyond code, I explore creativity through writing and art, expressing myself through stories and visuals. For me, creativity isn’t just a hobby-it’s a way to think, innovate, and bring ideas to life. 🎨✨
 <br/>
 If you're up for diving into tech discussions, exploring creative ideas, or simply having a good chat about life’s quirks, I’d love to hear from you. Let’s connect, share a laugh, and perhaps even spark the next big idea together! 🚀  
 
